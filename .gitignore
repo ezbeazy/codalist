@@ -1,2 +1,14 @@
-node_modules
 .DS_Store
+.vscode/*
+.changelog
+.history
+
+node_modules
+.yarn
+package-lock.json
+
+yarn-error.log
+build
+.docusaurus
+.docusaurus/*
+.cache-loader
