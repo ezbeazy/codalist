@@ -32,14 +32,41 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Learn To Code",
+                "permalink": "/docs/learn"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "learn",
+              "id": "learn",
+              "title": "Learn To Code",
+              "description": "",
+              "source": "@site/docs/learn.md",
+              "sourceDirName": ".",
+              "slug": "/learn",
+              "permalink": "/docs/learn",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/learn.md",
+              "tags": [],
+              "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Tutorial Intro",
+                "permalink": "/docs/intro"
               }
             },
             {
@@ -258,6 +285,10 @@
           "drafts": [],
           "sidebars": {
             "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "learn"
+              },
               {
                 "type": "doc",
                 "id": "intro"

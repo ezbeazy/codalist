@@ -11,6 +11,12 @@
     "tutorialSidebar": [
       {
         "type": "link",
+        "label": "Learn To Code",
+        "href": "/docs/learn",
+        "docId": "learn"
+      },
+      {
+        "type": "link",
         "label": "Tutorial Intro",
         "href": "/docs/intro",
         "docId": "intro"
@@ -88,6 +94,12 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "learn": {
+      "id": "learn",
+      "title": "Learn To Code",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

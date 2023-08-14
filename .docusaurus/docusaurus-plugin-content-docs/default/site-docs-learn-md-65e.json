@@ -1,0 +1,23 @@
+{
+  "unversionedId": "learn",
+  "id": "learn",
+  "title": "Learn To Code",
+  "description": "",
+  "source": "@site/docs/learn.md",
+  "sourceDirName": ".",
+  "slug": "/learn",
+  "permalink": "/docs/learn",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/learn.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}
