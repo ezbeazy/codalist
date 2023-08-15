@@ -88,10 +88,14 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            type: 'doc',
-            docId: 'list',
+            to: '/submit',
             position: 'right',
             label: 'Submit',
+          },
+          {
+            to: '/contact',
+            position: 'right',
+            label: 'Contact',
           },
         ],
       },
@@ -132,8 +136,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Privacy',
+                to: '/privacy-policy',
               },
             ],
           },

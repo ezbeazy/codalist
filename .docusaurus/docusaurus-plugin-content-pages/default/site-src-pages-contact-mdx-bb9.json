@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/contact",
+  "source": "@site/src/pages/contact.mdx",
+  "title": "Contact",
+  "description": "Shoot us an email with suggestions or questions helloEMAIL SPAM BLOCKER@EMAIL SPAM BLOCKERcodalist.dev",
+  "frontMatter": {
+    "title": "Contact"
+  }
+}

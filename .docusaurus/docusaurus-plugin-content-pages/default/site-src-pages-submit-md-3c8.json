@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/submit",
+  "source": "@site/src/pages/submit.md",
+  "title": "Submit",
+  "description": "Submit sites or tools to be listed on Codalist",
+  "frontMatter": {
+    "title": "Submit"
+  }
+}

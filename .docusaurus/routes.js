@@ -93,8 +93,18 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'd17'),
+    path: '/contact',
+    component: ComponentCreator('/contact', '6e3'),
+    exact: true
+  },
+  {
+    path: '/privacy-policy',
+    component: ComponentCreator('/privacy-policy', 'd80'),
+    exact: true
+  },
+  {
+    path: '/submit',
+    component: ComponentCreator('/submit', 'fa1'),
     exact: true
   },
   {

@@ -77,10 +77,14 @@ export default {
           "position": "left"
         },
         {
-          "type": "doc",
-          "docId": "list",
+          "to": "/submit",
           "position": "right",
           "label": "Submit"
+        },
+        {
+          "to": "/contact",
+          "position": "right",
+          "label": "Contact"
         }
       ],
       "hideOnScroll": false
@@ -122,8 +126,8 @@ export default {
               "to": "/blog"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Privacy",
+              "to": "/privacy-policy"
             }
           ]
         }

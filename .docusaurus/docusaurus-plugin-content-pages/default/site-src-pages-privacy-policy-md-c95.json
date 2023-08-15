@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/privacy-policy",
+  "source": "@site/src/pages/privacy-policy.md",
+  "title": "Privacy Policy",
+  "description": "We only collect google analytics data.",
+  "frontMatter": {
+    "title": "Privacy Policy"
+  }
+}

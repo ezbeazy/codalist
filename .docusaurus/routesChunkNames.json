@@ -179,12 +179,26 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-d17": {
+  "/contact-6e3": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---markdown-paged-65-e78"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---contactbb-9-b35"
+  },
+  "/privacy-policy-d80": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-paged-65-e78"
+    },
+    "content": "content---privacy-policyc-95-631"
+  },
+  "/submit-fa1": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-paged-65-e78"
+    },
+    "content": "content---submit-3-c-8-da4"
   },
   "/docs-e65": {
     "__comp": "__comp---theme-doc-page-1-be-9be",

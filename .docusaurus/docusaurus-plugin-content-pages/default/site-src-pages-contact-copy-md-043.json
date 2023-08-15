@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/contact%20copy",
+  "source": "@site/src/pages/contact copy.md",
+  "title": "Contact",
+  "description": "You don't need React to write simple standalone pages.",
+  "frontMatter": {
+    "title": "Contact"
+  }
+}

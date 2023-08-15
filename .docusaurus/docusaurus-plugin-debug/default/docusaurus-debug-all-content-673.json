@@ -677,18 +677,38 @@
   "docusaurus-plugin-content-pages": {
     "default": [
       {
+        "type": "mdx",
+        "permalink": "/contact",
+        "source": "@site/src/pages/contact.mdx",
+        "title": "Contact",
+        "description": "Shoot us an email with suggestions or questions helloEMAIL SPAM BLOCKER@EMAIL SPAM BLOCKERcodalist.dev",
+        "frontMatter": {
+          "title": "Contact"
+        }
+      },
+      {
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.tsx"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
+        "permalink": "/privacy-policy",
+        "source": "@site/src/pages/privacy-policy.md",
+        "title": "Privacy Policy",
+        "description": "We only collect google analytics data.",
         "frontMatter": {
-          "title": "Markdown page example"
+          "title": "Privacy Policy"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/submit",
+        "source": "@site/src/pages/submit.md",
+        "title": "Submit",
+        "description": "Submit sites or tools to be listed on Codalist",
+        "frontMatter": {
+          "title": "Submit"
         }
       }
     ]

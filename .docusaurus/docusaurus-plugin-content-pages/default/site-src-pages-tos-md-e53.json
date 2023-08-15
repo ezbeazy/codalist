@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tos",
+  "source": "@site/src/pages/tos.md",
+  "title": "Privacy Policy",
+  "description": "You don't need React to write simple standalone pages.",
+  "frontMatter": {
+    "title": "Privacy Policy"
+  }
+}

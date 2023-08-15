@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/contact",
+  "source": "@site/src/pages/contact.md",
+  "title": "Contact",
+  "description": "Shoot us an email with suggestions or questions hello at codalist.com",
+  "frontMatter": {
+    "title": "Contact"
+  }
+}
