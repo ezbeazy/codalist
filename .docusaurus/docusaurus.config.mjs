@@ -73,8 +73,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Glossary",
+              "to": "/docs/list"
             }
           ]
         },
