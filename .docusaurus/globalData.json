@@ -26,11 +26,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "basics/markdown-features",
-              "path": "/docs/basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "basics/no-code",
               "path": "/docs/basics/no-code",
               "sidebar": "tutorialSidebar"

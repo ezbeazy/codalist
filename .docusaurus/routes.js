@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '89f'),
+    component: ComponentCreator('/docs', 'e65'),
     routes: [
       {
         path: '/docs/basics/ai',
@@ -116,12 +116,6 @@ export default [
       {
         path: '/docs/basics/domains',
         component: ComponentCreator('/docs/basics/domains', '5ec'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/basics/markdown-features',
-        component: ComponentCreator('/docs/basics/markdown-features', '28a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -35,12 +35,6 @@
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/basics/markdown-features",
-            "docId": "basics/markdown-features"
-          },
-          {
-            "type": "link",
             "label": "No Code",
             "href": "/docs/basics/no-code",
             "docId": "basics/no-code"
@@ -106,12 +100,6 @@
       "id": "basics/domains",
       "title": "Domains",
       "description": "https://oneword.domains/",
-      "sidebar": "tutorialSidebar"
-    },
-    "basics/markdown-features": {
-      "id": "basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
     "basics/no-code": {
