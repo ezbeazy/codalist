@@ -25,6 +25,10 @@ export default {
     [
       "classic",
       {
+        "gtag": {
+          "trackingID": "G-GDDDKT74WM",
+          "anonymizeIP": true
+        },
         "docs": {
           "sidebarPath": "/Users/bryanzawlocki/Sites/codalist/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
