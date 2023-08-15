@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Codalist',
-  tagline: 'a helpful list for web entrepreneurs',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'A helpful list for web entrepreneurs',
+  url: 'https://codalist.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/codalist-favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -59,26 +59,21 @@ const config = {
       navbar: {
         logo: {
           alt: 'Codalist Logo',
-          src: 'img/codalist-logo.png',
+          src: 'img/codalist-logo.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Learn',
-          },
-          {
-            type: 'doc',
-            docId: 'intro',
+            docId: 'list',
             position: 'left',
             label: 'Resources',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'doc',
+            docId: 'list',
             position: 'right',
+            label: 'Submit',
           },
         ],
       },

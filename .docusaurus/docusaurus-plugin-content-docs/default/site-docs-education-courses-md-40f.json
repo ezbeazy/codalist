@@ -1,0 +1,27 @@
+{
+  "unversionedId": "education/courses",
+  "id": "education/courses",
+  "title": "Courses",
+  "description": "Video Course Libraries",
+  "source": "@site/docs/education/courses.md",
+  "sourceDirName": "education",
+  "slug": "/education/courses",
+  "permalink": "/docs/education/courses",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/education/courses.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Books",
+    "permalink": "/docs/education/books"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/docs/education/resources"
+  }
+}

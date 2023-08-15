@@ -10,144 +10,144 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Learn To Code",
-        "href": "/docs/learn",
-        "docId": "learn"
-      },
-      {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro"
-      },
-      {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Basics",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
+            "label": "AI",
+            "href": "/docs/basics/ai",
+            "docId": "basics/ai"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
+            "label": "Branding",
+            "href": "/docs/basics/branding",
+            "docId": "basics/branding"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
+            "href": "/docs/basics/web-tools",
+            "docId": "basics/web-tools"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
+            "href": "/docs/basics/markdown-features",
+            "docId": "basics/markdown-features"
           },
           {
             "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
+            "label": "No Code",
+            "href": "/docs/basics/no-code",
+            "docId": "basics/no-code"
           },
           {
             "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "label": "Domains",
+            "href": "/docs/basics/domains",
+            "docId": "basics/domains"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/docs/category/basics"
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Education",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
+            "label": "Books",
+            "href": "/docs/education/books",
+            "docId": "education/books"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
+            "label": "Courses",
+            "href": "/docs/education/courses",
+            "docId": "education/courses"
+          },
+          {
+            "type": "link",
+            "label": "Resources",
+            "href": "/docs/education/resources",
+            "docId": "education/resources"
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/education"
+      },
+      {
+        "type": "link",
+        "label": "Glossary",
+        "href": "/docs/list",
+        "docId": "list"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
-      "sidebar": "tutorialSidebar"
-    },
-    "learn": {
-      "id": "learn",
-      "title": "Learn To Code",
+    "basics/ai": {
+      "id": "basics/ai",
+      "title": "AI",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "basics/branding": {
+      "id": "basics/branding",
+      "title": "Branding",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+    "basics/domains": {
+      "id": "basics/domains",
+      "title": "Domains",
+      "description": "https://oneword.domains/",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
+    "basics/markdown-features": {
+      "id": "basics/markdown-features",
       "title": "Markdown Features",
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+    "basics/no-code": {
+      "id": "basics/no-code",
+      "title": "No Code",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "basics/web-tools": {
+      "id": "basics/web-tools",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "education/books": {
+      "id": "education/books",
+      "title": "Books",
+      "description": "- The E-Myth",
+      "sidebar": "tutorialSidebar"
+    },
+    "education/courses": {
+      "id": "education/courses",
+      "title": "Courses",
+      "description": "Video Course Libraries",
+      "sidebar": "tutorialSidebar"
+    },
+    "education/resources": {
+      "id": "education/resources",
+      "title": "Resources",
+      "description": "Documentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "list": {
+      "id": "list",
+      "title": "Glossary",
+      "description": "AI",
       "sidebar": "tutorialSidebar"
     }
   }

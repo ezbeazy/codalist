@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Resources/courses",
+  "id": "Resources/courses",
+  "title": "courses",
+  "description": "",
+  "source": "@site/docs/Resources/courses.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/courses",
+  "permalink": "/docs/Resources/courses",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Resources/courses.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "books",
+    "permalink": "/docs/Resources/books"
+  }
+}

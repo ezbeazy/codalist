@@ -1,0 +1,23 @@
+{
+  "unversionedId": "learn copy",
+  "id": "learn copy",
+  "title": "Learn To Code",
+  "description": "",
+  "source": "@site/docs/learn copy.md",
+  "sourceDirName": ".",
+  "slug": "/learn copy",
+  "permalink": "/docs/learn copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/learn copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Learn To Code",
+    "permalink": "/docs/learn"
+  }
+}

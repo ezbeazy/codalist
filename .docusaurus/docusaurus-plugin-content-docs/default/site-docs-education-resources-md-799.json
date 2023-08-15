@@ -1,0 +1,27 @@
+{
+  "unversionedId": "education/resources",
+  "id": "education/resources",
+  "title": "Resources",
+  "description": "Documentation",
+  "source": "@site/docs/education/resources.md",
+  "sourceDirName": "education",
+  "slug": "/education/resources",
+  "permalink": "/docs/education/resources",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/education/resources.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Courses",
+    "permalink": "/docs/education/courses"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/list"
+  }
+}

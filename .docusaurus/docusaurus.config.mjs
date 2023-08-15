@@ -5,12 +5,12 @@
  */
 export default {
   "title": "Codalist",
-  "tagline": "a helpful list for web entrepreneurs",
-  "url": "https://your-docusaurus-test-site.com",
+  "tagline": "A helpful list for web entrepreneurs",
+  "url": "https://codalist.dev",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/codalist-favicon.ico",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "i18n": {
@@ -43,18 +43,12 @@ export default {
     "navbar": {
       "logo": {
         "alt": "Codalist Logo",
-        "src": "img/codalist-logo.png"
+        "src": "img/codalist-logo.svg"
       },
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Learn"
-        },
-        {
-          "type": "doc",
-          "docId": "intro",
+          "docId": "list",
           "position": "left",
           "label": "Resources"
         },
@@ -64,9 +58,10 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
+          "type": "doc",
+          "docId": "list",
+          "position": "right",
+          "label": "Submit"
         }
       ],
       "hideOnScroll": false

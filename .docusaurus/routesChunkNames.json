@@ -186,60 +186,60 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-574": {
+  "/docs-89f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-7-ca-49c"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/docs/basics/ai-5a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-ai-1-b-3-78d"
+  },
+  "/docs/basics/branding-c45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-branding-57-f-a1f"
+  },
+  "/docs/basics/domains-5ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-domains-436-494"
+  },
+  "/docs/basics/markdown-features-28a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-markdown-features-557-9de"
+  },
+  "/docs/basics/no-code-300": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-no-code-1-e-2-ce1"
+  },
+  "/docs/basics/web-tools-d8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-web-toolsec-1-4c4"
+  },
+  "/docs/category/basics-dd3": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-basics-58-a-6c4"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/docs/category/education-b62": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-educationbe-0-9e5"
   },
-  "/docs/intro-aed": {
+  "/docs/education/books-aa5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-education-books-951-f08"
   },
-  "/docs/learn-350": {
+  "/docs/education/courses-05c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-learn-65-e-7ea"
+    "content": "content---docs-education-courses-40-f-ea1"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/docs/education/resources-faa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---docs-education-resources-799-818"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/docs/list-b71": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---docs-list-593-747"
   },
   "/-07e": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

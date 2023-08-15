@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Education/courses",
+  "id": "Education/courses",
+  "title": "courses",
+  "description": "",
+  "source": "@site/docs/Education/courses.md",
+  "sourceDirName": "Education",
+  "slug": "/Education/courses",
+  "permalink": "/docs/Education/courses",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Education/courses.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "books",
+    "permalink": "/docs/Education/books"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/docs/category/resources"
+  }
+}

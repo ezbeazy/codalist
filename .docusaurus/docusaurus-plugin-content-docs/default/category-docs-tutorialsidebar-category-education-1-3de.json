@@ -1,0 +1,15 @@
+{
+  "title": "Education",
+  "slug": "/category/education-1",
+  "permalink": "/docs/category/education-1",
+  "navigation": {
+    "previous": {
+      "title": "courses",
+      "permalink": "/docs/Education/courses"
+    },
+    "next": {
+      "title": "books",
+      "permalink": "/docs/Education copy/books"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "education/courses copy",
+  "id": "education/courses copy",
+  "title": "Courses",
+  "description": "Harvard CS50",
+  "source": "@site/docs/education/courses copy.md",
+  "sourceDirName": "education",
+  "slug": "/education/courses copy",
+  "permalink": "/docs/education/courses copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/education/courses copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "books",
+    "permalink": "/docs/education/books"
+  },
+  "next": {
+    "title": "Courses",
+    "permalink": "/docs/education/courses"
+  }
+}

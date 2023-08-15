@@ -1,0 +1,23 @@
+{
+  "unversionedId": "list",
+  "id": "list",
+  "title": "Glossary",
+  "description": "AI",
+  "source": "@site/docs/list.md",
+  "sourceDirName": ".",
+  "slug": "/list",
+  "permalink": "/docs/list",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/list.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/docs/education/resources"
+  }
+}

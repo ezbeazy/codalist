@@ -1,0 +1,15 @@
+{
+  "title": "Resources",
+  "slug": "/category/resources",
+  "permalink": "/docs/category/resources",
+  "navigation": {
+    "previous": {
+      "title": "Books",
+      "permalink": "/docs/education/books"
+    },
+    "next": {
+      "title": "books",
+      "permalink": "/docs/resources/books"
+    }
+  }
+}
