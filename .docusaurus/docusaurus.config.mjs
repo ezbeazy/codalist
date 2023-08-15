@@ -36,6 +36,14 @@ export default {
           "trackingID": "G-GDDDKT74WM",
           "anonymizeIP": true
         },
+        "sitemap": {
+          "changefreq": "weekly",
+          "priority": 0.5,
+          "ignorePatterns": [
+            "/tags/**"
+          ],
+          "filename": "sitemap.xml"
+        },
         "docs": {
           "sidebarPath": "/Users/bryanzawlocki/Sites/codalist/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
