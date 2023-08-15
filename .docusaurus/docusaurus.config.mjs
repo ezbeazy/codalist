@@ -21,6 +21,13 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "scripts": [
+    {
+      "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013496822643101",
+      "async": true,
+      "crossorigin": "anonymous"
+    }
+  ],
   "presets": [
     [
       "classic",
@@ -345,7 +352,6 @@ export default {
   "customFields": {},
   "plugins": [],
   "themes": [],
-  "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
