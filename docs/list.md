@@ -143,3 +143,4 @@ sidebar_position: 3
   - Wrap Bootstrap
   - Graph paper press
   - Organic themes
+  - https://jamstackthemes.dev/
